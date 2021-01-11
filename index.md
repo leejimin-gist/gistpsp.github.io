@@ -2,7 +2,7 @@
 layout: page
 title: Best
 subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/color_img.jpg
+cover-img: /assets/img/c2_img.jpg
 ---
 
 <br/>
