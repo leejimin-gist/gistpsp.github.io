@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEAM 4
+title: IgoAlgo
 subtitle: Welcome to Our Website
 cover-img: /assets/img/c2_img.jpg
 ---
@@ -9,4 +9,5 @@ cover-img: /assets/img/c2_img.jpg
 
 ## About 
 **We** are  **EECS Students** in GIST. 
+
 

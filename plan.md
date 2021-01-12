@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Goal
+title: Plan
+
 ---
 

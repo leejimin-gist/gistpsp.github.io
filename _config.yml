@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Team 4 
+title: IgoAlgo
 
 # [수정필요] 간단한 사이트 설명
-description: Study Website of Team4
+description: Study Website of IgoAlgo
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
 author: AejiJeon
@@ -12,10 +12,11 @@ author: AejiJeon
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  goal: "goal"
-  til: "til"
-  ps history: "blog"
-  project: "project"
+ 
+  Til: "til"
+  plan: "plan"
+  Problem Solving: "https://github.com/IgoAlgo/Problem-Solving" 
+  Project: "project"
   #GitHub: "https://github.com/team44study"
   #내가 변경 : Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
@@ -38,7 +39,7 @@ round-avatar: false
 social-network-links:
   email: "jeonaeji@gist.ac.kr"
   #facebook: seokho.son.korea
-  github: "team44study"
+  github: "IgoAlgo"
   #linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
