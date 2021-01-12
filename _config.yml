@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Team4 
+title: Team 4 
 
 # [수정필요] 간단한 사이트 설명
 description: Study Website of Team4
@@ -14,9 +14,9 @@ author: AejiJeon
 navbar-links:
   goal: "goal"
   til: "til"
-  ps history: "blog"
+  ps history: "ps history"
   Project: "project"
-  GitHub: "https://github.com/team44study"
+  #GitHub: "https://github.com/team44study"
   #내가 변경 : Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 
 
@@ -38,7 +38,7 @@ round-avatar: false
 social-network-links:
   email: "jeonaeji@gist.ac.kr"
   #facebook: seokho.son.korea
-  github: AEJIJEON
+  github: "team44study"
   #linkedin: seokho-son
 #  twitter: daattali
 #  rss: true
