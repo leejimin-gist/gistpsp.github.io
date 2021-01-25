@@ -2,7 +2,7 @@
 layout: page
 title: IgoAlgo
 subtitle: GIST IT Study Group
-cover-img: /assets/img/valley.jpg
+cover-img: /assets/img/valley1.jpg
 ---
 
 ## Who We Are?
