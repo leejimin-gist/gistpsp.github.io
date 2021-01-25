@@ -1,13 +1,23 @@
 ---
 layout: page
 title: IgoAlgo
-subtitle: Welcome to Our Website
-cover-img: /assets/img/c2_img.jpg
+subtitle: GIST IT Study Group
+cover-img: /assets/img/faang.jpg
 ---
 
 <br/>
 
-## About 
-**We** are  **EECS Students** in GIST. 
+## Who We Are?
+
+Our study group is formed for studing **the Algorithm, App, Web development (FE, BE) and the other IT knowledge.**
+
+If you have a any question, please freely mail at <agpa22@gist.ac.kr> (Jinyoun_Kim, reader of the crew) .
 
 
+
+## Our Crew Members
+
+- JinyoungKim ([Profile link][https://www.rocketpunch.com/@gimquokka]) - GIST EECS Undergraduate junior student
+- 이창하 - GIST EECS Undergraduate student
+- 전애지 - GIST EECS Undergraduate student
+- 최은기 - GIST EECS Undergraduate student
