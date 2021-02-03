@@ -7,7 +7,7 @@ cover-img: /assets/img/valley1.jpg
 
 ## Who We Are?
 
-Our study group is formed for studing **the Algorithm, App, Web development (FE, BE) and the other IT knowledge.**
+Our study group is formed for studying **the Algorithm, App, Web development (FE, BE) and the other IT knowledge.**
 
 If you have a any question, please freely mail at <agpa22@gist.ac.kr> (Jinyoun_Kim, reader of the crew) .
 
