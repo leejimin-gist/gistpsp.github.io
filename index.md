@@ -18,5 +18,5 @@ If you have a any question, please freely mail at <agpa22@gist.ac.kr> (Jinyoun_K
 - 전애지 - GIST EECS Undergraduate student
 - 최은기 - GIST EECS Undergraduate student
 
-![단체사진](./assets/img/단체사진.png){: width="30%" height="30%"}
+![단체사진](./assets/img/단체사진.png){: width="90%" height="90%"}
 
