@@ -14,7 +14,7 @@ If you have a any question, please freely mail at <agpa22@gist.ac.kr> (Jinyoun_K
 ## Our Crew Members
 
 - JinyoungKim ([profile link](https://www.rocketpunch.com/@gimquokka)) - GIST EECS Undergraduate junior student
-- 전애지 - ([github link]https://github.com/AEJIJEON) ([blog link](https://aejijeon.github.io)) - GIST EECS Undergraduate junior student
+- 전애지 - ([github link](https://github.com/AEJIJEON)) ([blog link](https://aejijeon.github.io)) - GIST EECS Undergraduate junior student
 - 이창하 - GIST EECS Undergraduate student
 - 최은기 - GIST EECS Undergraduate student
 
